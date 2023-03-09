@@ -1,0 +1,5 @@
+{
+    "require": {
+        "benhawker/pipedrive": "@dev"
+    }
+}

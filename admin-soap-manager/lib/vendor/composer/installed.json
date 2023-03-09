@@ -1,0 +1,46 @@
+[
+    {
+        "name": "benhawker/pipedrive",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/TTRGroup/pipedrive-api-php.git",
+            "reference": "a5fd15aa5ce2624460c1f57449fb5f775b77538d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/TTRGroup/pipedrive-api-php/zipball/a5fd15aa5ce2624460c1f57449fb5f775b77538d",
+            "reference": "a5fd15aa5ce2624460c1f57449fb5f775b77538d",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2015-04-21 09:59:44",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Benhawker\\Pipedrive": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "TTRide Group Devs",
+                "email": "ben@tickettoridegroup.com",
+                "homepage": "http://tickettoridegroup.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "API client library for the Pipedrive CRM",
+        "keywords": [
+            "api",
+            "crm"
+        ]
+    }
+]
